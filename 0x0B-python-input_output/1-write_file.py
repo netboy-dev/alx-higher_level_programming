@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""0x0B. Python - Input/Output, task 3. Write to a file """
+"""0x0B. Python - Input/Output """
 
 
 def write_file(filename="", text=""):
